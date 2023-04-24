@@ -13,6 +13,9 @@ Xinyu Tong
 ## Project Overview
 
 ## Features
+>**CRUD Operations**\
+>**Query Functions**
+>**Other**
 
 ## Instructions
 

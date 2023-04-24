@@ -12,7 +12,7 @@ struct Record {
     int id;
     string name;
     int age;
-    string city;
+    int numberofskin;
     string team;
 };
 
@@ -21,7 +21,7 @@ public:
     void addRecord(const Record& record);
     void editRecord(int id, const Record& record);
     void deleteRecord(int id);
-    std::vector<Record> filterData(const std::string& city, int min_age, int max_age) const;
+    std::vector<Record> filterData(const std::string& team, int min_age, int max_age) const;
     void displayData() const;
     void sortData(std::string field);
 

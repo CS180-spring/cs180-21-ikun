@@ -10,10 +10,10 @@ Xinyu Tong
 
 ## Tools/Technologies
 >**Interface**\
-Terminal/Console\
+Terminal/Console
 
 >**Languages**\
-C++, Python\
+C++, Python
 
 ## Project Overview
 

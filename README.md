@@ -16,7 +16,7 @@ Terminal/Console
 C++, Python
 
 ## Project Overview
-**Document Data Store Application**\
+**Document Data Store Application**
 
 ## Features
 >**CRUD Operations**\

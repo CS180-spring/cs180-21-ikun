@@ -14,7 +14,7 @@ Xinyu Tong
 
 ## Features
 
-##Instructions
+## Instructions
 
 ## Burndown
 

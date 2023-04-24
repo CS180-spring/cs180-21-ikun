@@ -9,6 +9,11 @@ Noah Perez\
 Xinyu Tong
 
 ## Tools/Technologies
+>**Interface**\
+Terminal/Console\
+
+>**Languages**\
+C++, Python\
 
 ## Project Overview
 

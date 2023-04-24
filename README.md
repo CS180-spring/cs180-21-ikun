@@ -28,3 +28,4 @@ C++, Python
 ## Burndown
 
 
+![IKUN Week 3 Burndown Chart ](https://user-images.githubusercontent.com/57573934/234085504-d935b6dc-4099-4ba8-b366-28b35e70c07a.png)

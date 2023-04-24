@@ -14,7 +14,7 @@ Xinyu Tong
 
 ## Features
 >**CRUD Operations**\
->**Query Functions**
+>**Query Functions**\
 >**Other**
 
 ## Instructions

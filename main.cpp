@@ -25,8 +25,8 @@ int main(){
         cout << "\n \t\t\t 2. READ RECORD";
         cout << "\n \t\t\t 3. UPDATE RECORD";
         cout << "\n \t\t\t 4. DELETE RECORD";
-        cout << "\n \t\t\t 5. DISPLAY RECORD";
-        cout << "\n \t\t\t 6. SORT FIELDS";
+        cout << "\n \t\t\t 5. FILTER SEARCH";
+        cout << "\n \t\t\t 6. SORT RECORDS";
         cout << "\n \t\t\t 7. Exit";
         cout << "\n\n";
         cout << "\t\t\t Enter Your Choice: ";
@@ -39,7 +39,7 @@ int main(){
         }
 
         else if(userChoice == "2"){
-            readRecord();
+            displayData();
         }
 
         else if(userChoice == "3"){
@@ -51,7 +51,7 @@ int main(){
         }
 
         else if(userChoice == "5"){
-            displayData();
+            filterData();
         }
 
         if(userChoice == "6"){
@@ -59,6 +59,7 @@ int main(){
         }
 
         else if(userChoice == "7"){
+           cout<< "Thank You for Using Our App"
            return 0; 
         }
     }

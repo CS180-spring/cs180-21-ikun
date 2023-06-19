@@ -17,7 +17,7 @@ Javascript, JSX
 
 ## Features
 >**CRUD Operations**\
->**API Calls**\
+>**API Calls**
 
 ## Instructions
 

@@ -7,6 +7,7 @@ Noah Perez\
 ## Tools/Technologies
 >**Interface**\
 Terminal/Console
+>>**Postman to test API functions**\
 
 >**Languages**\
 Javascript, JSX

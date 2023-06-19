@@ -2,26 +2,21 @@
 # CS 180 Project - IKUN
 
 ## Team Members
-Shengzhe Wen\
-Junwei Yan\
-Heming Guan\
 Noah Perez\
-Xinyu Tong
 
 ## Tools/Technologies
 >**Interface**\
 Terminal/Console
 
 >**Languages**\
-C++, Python
+Javascript, JSX
 
 ## Project Overview
-**Document Data Store Application**
+**JSON Data Store Application**
 
 ## Features
 >**CRUD Operations**\
->**Query Functions**\
->**Other**
+>**API Calls**\
 
 ## Instructions
 
